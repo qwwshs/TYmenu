@@ -29,6 +29,7 @@ export default defineConfig({
           { text: ' 农家木桶饭', link: '/农家木桶饭' },
           { text: ' 沙县小吃', link: '/沙县小吃' },
           { text: ' 老上海馄饨铺', link: '/老上海馄饨铺' },
+          { text: ' 黑金卤肉饭·石磨肠粉店', link: '/黑金卤肉饭·石磨肠粉店' },
         ]
       }
     ],
