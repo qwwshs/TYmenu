@@ -1,0 +1,23 @@
+{
+  "remarks": "五份起送。主营：石磨肠粉、汤粉/面、汤饭。纯米浆石磨肠粉，十年老店，口感顺滑。",
+  "name": "盈丰小张石磨肠粉",
+  "number": 13022033876,
+  "address": "",
+  "menu": [
+    {"name": "蛋肠", "price": "5元", "remarks": ""},
+    {"name": "肉肠", "price": "5元", "remarks": ""},
+    {"name": "蛋肉", "price": "6元", "remarks": ""},
+    {"name": "蛋米粉", "price": "6元", "remarks": ""},
+    {"name": "肉米粉", "price": "6元", "remarks": ""},
+    {"name": "蛋肉米粉", "price": "8元", "remarks": ""},
+    {"name": "招牌猪杂汤粉/面", "price": "10元", "remarks": "可选12元、15元"},
+    {"name": "猪杂 + 牛肉丸双拼粉/面", "price": "12元", "remarks": "可选15元、20元"},
+    {"name": "牛腩汤粉/面", "price": "12元", "remarks": "可选15元、20元"},
+    {"name": "猪脚汤粉/面", "price": "12元", "remarks": "可选15元、20元"},
+    {"name": "牛肉汤粉/面", "price": "12元", "remarks": "可选15元、20元"},
+    {"name": "牛肉丸汤粉/面", "price": "12元", "remarks": "可选15元、20元"},
+    {"name": "猪杂汤饭", "price": "12元", "remarks": "可选15元、20元"},
+    {"name": "猪脚饭", "price": "15元", "remarks": "可选20元、25元"},
+    {"name": "牛腩饭", "price": "15元", "remarks": "可选20元、25元"}
+  ]
+}
